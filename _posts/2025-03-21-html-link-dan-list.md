@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "html link dan list"
 ---
 
