@@ -1,4 +1,4 @@
-- name: none
+- name: home
   link: /
 - name: friends
   link: /friends.html
