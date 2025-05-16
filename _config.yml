@@ -1,5 +1,8 @@
 url: 'https://fathan-mubina.github.io/'
 
+title: Fathan Mubina
+description: Hai
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
