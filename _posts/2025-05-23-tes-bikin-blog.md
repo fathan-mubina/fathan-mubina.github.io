@@ -4,6 +4,8 @@ title: "tes bikin blog"
 ---
 
 hari ini saya ingin mencoba membuat sebuah blog <br>
+
+
 gambar hanya pemanis
 
 ![tes bikin blog](/assets/images/pemanis.png)

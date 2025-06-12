@@ -3,7 +3,7 @@ layout: post
 title : "belajar github"
 ---
 
-
+mempelajari github.
 
 pada pertemuan pertama ini saya disuruh untuk mengistall beberapa software seperti: <br>
 1.jekyll<br>
